@@ -1,0 +1,11 @@
+2023-03-15 10:34:09,486:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-15 10:34:24,706:views.py:INFO:131:This is with respect to Logger
+2023-03-15 10:35:47,756:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-15 10:35:58,286:views.py:INFO:131:This is with respect to Logger
+2023-03-15 10:38:05,725:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-15 10:38:35,816:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-15 10:38:43,048:log.py:WARNING:241:Unauthorized: /notes/notesapi/
+2023-03-15 10:45:37,796:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-15 10:45:53,246:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-15 10:46:18,059:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-15 10:46:52,258:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
