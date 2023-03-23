@@ -1,0 +1,503 @@
+2023-03-15 10:34:09,486:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-15 10:34:24,706:views.py:INFO:131:This is with respect to Logger
+2023-03-15 10:35:47,756:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-15 10:35:58,286:views.py:INFO:131:This is with respect to Logger
+2023-03-15 10:38:05,725:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-15 10:38:35,816:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-15 10:38:43,048:log.py:WARNING:241:Unauthorized: /notes/notesapi/
+2023-03-15 10:45:37,796:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-15 10:45:53,246:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-15 10:46:18,059:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-15 10:46:52,258:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-16 20:08:39,364:base.py:WARNING:44:view's ArchiveNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'ArchiveNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,364:base.py:WARNING:44:view's ArchiveNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'ArchiveNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,364:base.py:WARNING:44:view's ArchiveNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'ArchiveNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,364:base.py:WARNING:44:view's ArchiveNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'ArchiveNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,372:base.py:WARNING:44:view's ArchiveNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'ArchiveNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,372:base.py:WARNING:44:view's TrashNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'TrashNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,372:base.py:WARNING:44:view's TrashNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'TrashNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,372:base.py:WARNING:44:view's TrashNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'TrashNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,372:base.py:WARNING:44:view's TrashNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'TrashNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:08:39,372:base.py:WARNING:44:view's TrashNotesAPI raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'TrashNotesAPI' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2023-03-16 20:09:46,059:log.py:WARNING:241:Unauthorized: /user/api/loginuser/
+2023-03-16 20:11:10,160:log.py:WARNING:241:Unauthorized: /user/api/loginuser/
+2023-03-16 20:13:31,990:log.py:WARNING:241:Unauthorized: /user/api/registeruser/
+2023-03-16 20:13:56,784:log.py:WARNING:241:Not Found: /
+2023-03-16 20:13:56,888:log.py:WARNING:241:Not Found: /favicon.ico
+2023-03-16 20:14:15,540:log.py:WARNING:241:Not Found: /api/token.
+2023-03-16 20:14:20,514:log.py:WARNING:241:Method Not Allowed: /api/token/
+2023-03-16 20:16:06,742:log.py:WARNING:241:Unauthorized: /user/api/loginuser/
+2023-03-16 20:16:22,295:log.py:WARNING:241:Unauthorized: /user/api/loginuser/
+2023-03-16 20:16:44,787:log.py:WARNING:241:Unauthorized: /user/api/loginuser/
+2023-03-16 20:18:31,532:log.py:WARNING:241:Unauthorized: /notes/labelapi/
+2023-03-16 20:18:44,591:log.py:WARNING:241:Unauthorized: /notes/notesapi/
+2023-03-16 21:16:00,865:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\urls.py changed, reloading.
+2023-03-17 09:23:23,168:log.py:WARNING:241:Unauthorized: /notes/labelapi/
+2023-03-17 09:25:16,717:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-17 09:26:10,772:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-17 09:26:18,963:log.py:WARNING:241:Not Found: /accounts/login/
+2023-03-17 09:26:19,039:log.py:WARNING:241:Not Found: /favicon.ico
+2023-03-17 09:26:47,014:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-17 09:28:31,167:log.py:WARNING:241:Unauthorized: /api/token/
+2023-03-17 09:29:57,090:views.py:INFO:55:This is with respect to Logger
+2023-03-17 09:34:26,069:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 09:52:26,174:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 10:02:31,419:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 13:37:12,739:log.py:WARNING:241:Unauthorized: /notes/labelapi/
+2023-03-17 13:37:33,124:log.py:WARNING:241:Unauthorized: /notes/labelapi/
+2023-03-17 13:39:51,900:views.py:INFO:54:This is with respect to Logger
+2023-03-17 13:42:42,126:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 13:43:57,099:log.py:ERROR:241:Internal Server Error: /notes/labelapi/
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: LabelAPI.delete() missing 1 required positional argument: 'label_id'
+2023-03-17 13:45:33,583:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 13:46:56,413:log.py:ERROR:241:Internal Server Error: /notes/labelapi/
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: LabelAPI.delete() missing 1 required positional argument: 'id'
+2023-03-17 13:48:05,884:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 13:49:18,023:log.py:ERROR:241:Internal Server Error: /notes/labelapi/
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py", line 107, in delete
+    labels = LabelsModel.objects.get(id=request.data.get['id'])
+                                        ~~~~~~~~~~~~~~~~^^^^^^
+TypeError: 'builtin_function_or_method' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py", line 112, in delete
+    except labels.DoesNotExist:
+           ^^^^^^
+UnboundLocalError: cannot access local variable 'labels' where it is not associated with a value
+2023-03-17 19:42:59,332:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 19:45:37,271:views.py:INFO:145:This is with respect to Logger
+2023-03-17 19:46:35,980:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 19:48:18,614:views.py:INFO:145:This is with respect to Logger
+2023-03-17 19:49:45,638:views.py:INFO:145:This is with respect to Logger
+2023-03-17 19:50:36,627:log.py:WARNING:241:Bad Request: /notes/notesapi/
+2023-03-17 19:50:43,037:log.py:WARNING:241:Bad Request: /notes/notesapi/
+2023-03-17 19:54:17,971:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 19:54:53,930:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 19:55:31,740:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\urls.py changed, reloading.
+2023-03-17 19:57:02,807:views.py:INFO:54:This is with respect to Logger
+2023-03-17 19:57:26,120:views.py:INFO:145:This is with respect to Logger
+2023-03-17 19:59:03,287:log.py:ERROR:241:Internal Server Error: /notes/labelapi/
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py", line 107, in delete
+    labels = LabelsModel.objects.get(id=request.data.get['id'])
+                                        ~~~~~~~~~~~~~~~~^^^^^^
+TypeError: 'builtin_function_or_method' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py", line 112, in delete
+    except labels.DoesNotExist:
+           ^^^^^^
+UnboundLocalError: cannot access local variable 'labels' where it is not associated with a value
+2023-03-17 19:59:18,175:log.py:ERROR:241:Internal Server Error: /notes/labelapi/
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py", line 107, in delete
+    labels = LabelsModel.objects.get(id=request.data.get['id'])
+                                        ~~~~~~~~~~~~~~~~^^^^^^
+TypeError: 'builtin_function_or_method' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py", line 112, in delete
+    except labels.DoesNotExist:
+           ^^^^^^
+UnboundLocalError: cannot access local variable 'labels' where it is not associated with a value
+2023-03-17 20:15:12,963:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 20:17:19,937:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 20:19:08,459:views.py:INFO:145:This is with respect to Logger
+2023-03-17 20:21:51,517:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 20:22:56,864:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-17 20:23:18,195:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 09:45:23,722:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 10:34:07,955:log.py:WARNING:241:Unauthorized: /notes/collaboratorapi/
+2023-03-20 10:35:08,939:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 10:36:16,469:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 10:37:36,994:views.py:INFO:43:This is with respect to Logger
+2023-03-20 10:37:53,863:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 10:39:25,665:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 10:40:38,727:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 10:41:56,183:views.py:INFO:133:This is with respect to Logger
+2023-03-20 10:44:32,808:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 10:46:41,885:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 10:47:44,497:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 10:52:18,312:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 15:09:11,770:views.py:INFO:133:This is with respect to Logger
+2023-03-20 15:16:14,208:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 15:19:58,997:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 15:21:04,547:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 15:22:20,871:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 15:26:47,001:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 16:17:39,773:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 16:21:02,748:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 16:23:37,931:log.py:WARNING:241:Unauthorized: /notes/collaboratorapi/
+2023-03-20 16:23:51,691:log.py:WARNING:241:Unauthorized: /user/api/loginuser/
+2023-03-20 16:26:33,677:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\serializers.py changed, reloading.
+2023-03-20 16:29:22,791:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\serializers.py changed, reloading.
+2023-03-20 16:49:04,916:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 22:29:18,621:log.py:WARNING:241:Unauthorized: /notes/collaboratorapi/
+2023-03-20 22:30:23,116:log.py:WARNING:241:Unauthorized: /notes/collaboratorapi/
+2023-03-20 22:30:52,572:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-20 22:31:39,543:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 22:31:54,761:log.py:ERROR:241:Internal Server Error: /notes/collaboratorapi/
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\PycharmProjects\FundooNotesProject\myworld\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CollaboratorAPI.delete() missing 1 required positional argument: 'note_id'
+2023-03-20 22:32:30,586:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 22:37:17,338:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 22:37:52,286:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 22:56:53,688:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 23:02:41,665:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-20 23:03:18,535:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\models.py changed, reloading.
+2023-03-20 23:08:35,334:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:25:56,898:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:26:27,128:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:26:51,868:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:28:39,578:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:28:49,793:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:29:13,997:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:29:23,876:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:46:08,713:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:47:45,318:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:48:25,905:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:48:38,918:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:48:56,858:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:50:07,278:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:51:02,558:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:51:12,118:log.py:WARNING:241:Bad Request: /notes/collaboratorapi/
+2023-03-21 09:51:27,288:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:52:16,778:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:58:11,438:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:58:37,088:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 09:59:36,011:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 10:00:44,777:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 10:06:25,920:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 10:23:34,033:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 10:24:28,951:log.py:WARNING:241:Not Found: /notes/collaboratorapi/
+2023-03-21 10:27:07,249:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 10:27:14,105:log.py:WARNING:241:Unauthorized: /notes/collaboratorapi/
+2023-03-21 10:28:05,352:log.py:WARNING:241:Not Found: /notes/collaboratorapi/
+2023-03-21 10:30:08,114:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 10:30:14,070:log.py:WARNING:241:Not Found: /notes/collaboratorapi/
+2023-03-21 10:41:44,730:log.py:WARNING:241:Unauthorized: /notes/notesapi/
+2023-03-21 10:41:45,006:log.py:WARNING:241:Not Found: /favicon.ico
+2023-03-21 10:45:02,479:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\views.py changed, reloading.
+2023-03-21 10:45:05,054:views.py:INFO:136:This is with respect to Logger
+2023-03-21 10:46:00,417:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\NotesApp\serializers.py changed, reloading.
+2023-03-21 10:46:02,823:views.py:INFO:136:This is with respect to Logger
+2023-03-21 10:46:34,445:log.py:WARNING:241:Unauthorized: /user/api/loginuser/
+2023-03-21 10:47:07,756:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\UserAuth\views.py changed, reloading.
+2023-03-21 10:47:09,953:log.py:WARNING:241:Forbidden: /user/api/loginuser/
+2023-03-21 10:47:35,805:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\UserAuth\views.py changed, reloading.
+2023-03-21 10:47:37,976:log.py:WARNING:241:Method Not Allowed: /user/api/loginuser/
+2023-03-21 10:47:53,546:views.py:INFO:136:This is with respect to Logger
+2023-03-21 10:51:26,531:Image.py:DEBUG:379:Importing BlpImagePlugin
+2023-03-21 10:51:26,535:Image.py:DEBUG:379:Importing BmpImagePlugin
+2023-03-21 10:51:26,535:Image.py:DEBUG:379:Importing BufrStubImagePlugin
+2023-03-21 10:51:26,539:Image.py:DEBUG:379:Importing CurImagePlugin
+2023-03-21 10:51:26,542:Image.py:DEBUG:379:Importing DcxImagePlugin
+2023-03-21 10:51:26,552:Image.py:DEBUG:379:Importing DdsImagePlugin
+2023-03-21 10:51:26,559:Image.py:DEBUG:379:Importing EpsImagePlugin
+2023-03-21 10:51:26,592:Image.py:DEBUG:379:Importing FitsImagePlugin
+2023-03-21 10:51:26,595:Image.py:DEBUG:379:Importing FitsStubImagePlugin
+2023-03-21 10:51:26,598:Image.py:DEBUG:379:Importing FliImagePlugin
+2023-03-21 10:51:26,603:Image.py:DEBUG:379:Importing FpxImagePlugin
+2023-03-21 10:51:26,607:Image.py:DEBUG:382:Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-03-21 10:51:26,608:Image.py:DEBUG:379:Importing FtexImagePlugin
+2023-03-21 10:51:26,611:Image.py:DEBUG:379:Importing GbrImagePlugin
+2023-03-21 10:51:26,614:Image.py:DEBUG:379:Importing GifImagePlugin
+2023-03-21 10:51:26,614:Image.py:DEBUG:379:Importing GribStubImagePlugin
+2023-03-21 10:51:26,618:Image.py:DEBUG:379:Importing Hdf5StubImagePlugin
+2023-03-21 10:51:26,622:Image.py:DEBUG:379:Importing IcnsImagePlugin
+2023-03-21 10:51:26,635:Image.py:DEBUG:379:Importing IcoImagePlugin
+2023-03-21 10:51:26,639:Image.py:DEBUG:379:Importing ImImagePlugin
+2023-03-21 10:51:26,644:Image.py:DEBUG:379:Importing ImtImagePlugin
+2023-03-21 10:51:26,647:Image.py:DEBUG:379:Importing IptcImagePlugin
+2023-03-21 10:51:26,651:Image.py:DEBUG:379:Importing JpegImagePlugin
+2023-03-21 10:51:26,651:Image.py:DEBUG:379:Importing Jpeg2KImagePlugin
+2023-03-21 10:51:26,651:Image.py:DEBUG:379:Importing McIdasImagePlugin
+2023-03-21 10:51:26,655:Image.py:DEBUG:379:Importing MicImagePlugin
+2023-03-21 10:51:26,659:Image.py:DEBUG:382:Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-03-21 10:51:26,659:Image.py:DEBUG:379:Importing MpegImagePlugin
+2023-03-21 10:51:26,662:Image.py:DEBUG:379:Importing MpoImagePlugin
+2023-03-21 10:51:26,666:Image.py:DEBUG:379:Importing MspImagePlugin
+2023-03-21 10:51:26,670:Image.py:DEBUG:379:Importing PalmImagePlugin
+2023-03-21 10:51:26,677:Image.py:DEBUG:379:Importing PcdImagePlugin
+2023-03-21 10:51:26,681:Image.py:DEBUG:379:Importing PcxImagePlugin
+2023-03-21 10:51:26,681:Image.py:DEBUG:379:Importing PdfImagePlugin
+2023-03-21 10:51:26,695:Image.py:DEBUG:379:Importing PixarImagePlugin
+2023-03-21 10:51:26,698:Image.py:DEBUG:379:Importing PngImagePlugin
+2023-03-21 10:51:26,698:Image.py:DEBUG:379:Importing PpmImagePlugin
+2023-03-21 10:51:26,698:Image.py:DEBUG:379:Importing PsdImagePlugin
+2023-03-21 10:51:26,706:Image.py:DEBUG:379:Importing SgiImagePlugin
+2023-03-21 10:51:26,711:Image.py:DEBUG:379:Importing SpiderImagePlugin
+2023-03-21 10:51:26,714:Image.py:DEBUG:379:Importing SunImagePlugin
+2023-03-21 10:51:26,717:Image.py:DEBUG:379:Importing TgaImagePlugin
+2023-03-21 10:51:26,721:Image.py:DEBUG:379:Importing TiffImagePlugin
+2023-03-21 10:51:26,721:Image.py:DEBUG:379:Importing WebPImagePlugin
+2023-03-21 10:51:26,729:Image.py:DEBUG:379:Importing WmfImagePlugin
+2023-03-21 10:51:26,733:Image.py:DEBUG:379:Importing XbmImagePlugin
+2023-03-21 10:51:26,737:Image.py:DEBUG:379:Importing XpmImagePlugin
+2023-03-21 10:51:26,741:Image.py:DEBUG:379:Importing XVThumbImagePlugin
+2023-03-22 22:28:14,955:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\__init__.py changed, reloading.
+2023-03-22 22:35:58,463:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\FundooNotesProject\settings.py changed, reloading.
+2023-03-22 22:37:07,935:log.py:WARNING:241:Method Not Allowed: /user/api/loginuser/
+2023-03-22 22:37:08,224:log.py:WARNING:241:Not Found: /favicon.ico
+2023-03-22 22:41:25,138:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\UserAuth\middlewares.py changed, reloading.
+2023-03-22 22:42:26,608:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\UserAuth\middlewares.py changed, reloading.
+2023-03-22 22:50:36,822:log.py:WARNING:241:Unauthorized: /user/api/registeruser/
+2023-03-22 22:50:57,560:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\UserAuth\views.py changed, reloading.
+2023-03-22 22:51:03,511:log.py:WARNING:241:Method Not Allowed: /user/api/registeruser/
+2023-03-22 22:51:46,575:log.py:WARNING:241:Method Not Allowed: /user/api/loginuser/
+2023-03-22 22:54:03,226:log.py:WARNING:241:Unauthorized: /notes/labelapi/
+2023-03-22 22:54:57,228:views.py:INFO:136:This is with respect to Logger
+2023-03-22 22:55:25,225:views.py:INFO:136:This is with respect to Logger
+2023-03-22 22:55:54,026:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\UserAuth\views.py changed, reloading.
+2023-03-22 22:56:27,589:autoreload.py:INFO:266:C:\Users\Admin\PycharmProjects\FundooNotesProject\UserAuth\views.py changed, reloading.
